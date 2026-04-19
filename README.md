@@ -9,7 +9,7 @@
 
 ## Overview
 
-This repository contains the code, aggregated data outputs and documents for **Pilot Study 1**, part of a doctoral dissertation in Sociology at the **Universidad Complutense de Madrid (UCM)**, on workforce recertification and upskilling/reskilling strategies in Chile.
+This repository contains the code, aggregated data outputs and documents for **Pilot Study 1**, part of a doctoral dissertation in Sociology at the **Universidad Complutense de Madrid (UCM)**, on workforce recertification and upskilling/reskilling strategies.
 
 The study analyses the distribution of firm-level training activity, its association with wages and labour productivity, and the fiscal implications of eliminating the SENCE Training Tax Credit (Franquicia Tributaria SENCE), using microdata from the **Seventh Longitudinal Enterprise Survey (ELE-7, 2020-2022)**.
 
