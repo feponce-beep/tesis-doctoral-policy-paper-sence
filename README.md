@@ -1,4 +1,3 @@
-# Pilot Study 1 — Doctoral Research in Sociology
 ## Firm-level training, wages and fiscal sensitivity under the SENCE Training Tax Credit (Franquicia Tributaria)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
