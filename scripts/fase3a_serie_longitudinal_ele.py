@@ -1,7 +1,7 @@
 """
 OPPRU-Chile · Piloto 2 · Análisis longitudinal v5.1
 =====================================================
-Revalida todas las cifras de la columna de opinión y del informe Piloto 2
+Revalida todas las cifras 
 corriendo la misma construcción de variables (con correcciones v5) en las
 cuatro olas disponibles:
 
