@@ -13,8 +13,6 @@ This repository contains the code, aggregated data outputs and documents for **P
 
 The study analyses the distribution of firm-level training activity, its association with wages and labour productivity, and the fiscal implications of eliminating the SENCE Training Tax Credit (Franquicia Tributaria SENCE), using microdata from the **Longitudinal Enterprise Survey (ELE-4 through ELE-7, reference years 2013-2022)**.
 
-**Key findings (v5.1, with corrected physical headcount and Chilean decimal parsing):**
-
 * Only **3.6%** of formal firms declare any collaborative training activity (**14.4%** large firms vs. **3.1%** SMEs vs. **2.9%** micro).
 * The SME training-wage premium is stable at **~15%** (OLS, controlled for sector, age and group membership), averaging **15.2%** across four waves (2013: 15.1% · 2015: 11.3% · 2019: 19.4% · 2022: 15.0%).
 * The concentration ratio (large/SME) increased from **2.43×** (2013) to **4.84×** (2022): the Matthew Effect in human capital.
